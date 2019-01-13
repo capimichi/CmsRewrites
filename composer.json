@@ -1,0 +1,10 @@
+{
+    "name": "capimichi/CmsRewrites",
+    "description": "Magento 1",
+    "type": "magento-module",
+    "authors": [
+        {
+            "name": "Michele Capicchioni"
+        }
+    ]
+}
